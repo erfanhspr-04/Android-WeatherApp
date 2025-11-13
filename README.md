@@ -19,6 +19,9 @@
 
 ---
 **ظاهر برنامه فعلی**
+
+<img width="385" height="812" alt="image-1" src="https://github.com/user-attachments/assets/bcbba4b3-ee3f-4e14-ae95-37ecca3a86d8" />
+
 ![alt text](image-2.png)
 
 ---
@@ -49,3 +52,4 @@ GitHub: @erfanhspr-04
 
 
 اگه پروژه براتون مفید بود، لطفاً یک ⭐ ستاره بزنید!
+

@@ -29,7 +29,7 @@
 ## تکنولوژی‌های استفاده شده
 - زبان: **Kotlin**  
 - معماری: MVVM (در حال تکمیل)  
-- کتابخانه‌ها: Retrofit / Gson / ViewModel / LiveData  
+- کتابخانه‌ها: AndroidX، View Binding، Glide، OkHttp، org.json، Calligraphy، Material Components 
 - فونت فارسی: Vazir Medium  
 
 ---
@@ -52,6 +52,7 @@ GitHub: @erfanhspr-04
 
 
 اگه پروژه براتون مفید بود، لطفاً یک ⭐ ستاره بزنید!
+
 
 
 
